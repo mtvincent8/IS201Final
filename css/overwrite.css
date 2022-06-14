@@ -1,0 +1,48 @@
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.name {
+    font-style: italic;
+    color:green;
+    margin-left:30%;
+    float: left;
+    border: green 2px dotted;
+    
+}
+
+.website {
+    color: grey;
+    font-family: cursive;
+}
+
+.edu {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.work {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.skill {
+    color: indigo;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video {
+    width: 500;
+    margin-left: 500px;
+    margin-top: -300px;
+}
+
+.newyork:hover {
+    font-weight: bold;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.newyork:visited {
+    color: blue;
+}
